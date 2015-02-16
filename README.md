@@ -15,20 +15,40 @@
 - Arquitectura de Software Buenos Aires - http://www.meetup.com/ArquitecturaDeSoftware/
 - Buenos Aires Python Meetup - http://www.meetup.com/Buenos-Aires-Python-Meetup/
 - Buenos Aires Haskell Meetup - http://www.meetup.com/Buenos-Aires-Haskell-Meetup/
+- FirefoxOS Argentina - http://www.meetup.com/FirefoxOS-Argentina/
+- Hacks Hackers Buenos Aires - http://www.meetup.com/HacksHackersBA/
+- Processing Buenos Aires - https://www.facebook.com/processingBuenosAires
 
-## Oranizadores [WIP]
+## Oranizadores
 
 ### Antes de empezar un nuevo meetup
-- Es importante averiguar si existe un meetup similar al que nos podamos unirnos para ayudar
-- Tenemos que definir objetivos/misión del meetup.
 
-### Primer meetup [WIP]
+- Averiguar si existe un grupo similar al que nos podamos unir y participar.
+- Definir la misión y obejtivos del grupo.
+- *Con un gran meetup vienen grandes responsabilidades.*
+
+### Organizando meetups [WIP]
+
+Una vez que decidimos en organizar un meetup, tenemos que tener en cuenta los siguientes puntos:
+
+- Definir que formato van a tener los meetups: formales, informales, online, offline, charlas, juntarse a tomar algo, etc.
+- Definir cada cuanto tiempo se van a realizar.
+- Elegir los venues correctos (la parte más complicada).
+- Elegir que día se va a llevar a realizar el meetup.
+- No organices las cosas solo, es importante tener un equipo que te ayude.
+- Ir a otros meetups y aprender de los demás, siempre.
+- Estar abierto al feedback y escuhar las opiniones de los miembros y otros organizadores.
+- No hay que ser el protagonista, simplemente un facilitador y ayudar a que puedan llevarse a cabo.
+- Crear un sitio de evento.
+- Conseguir speakers.
+- Conseguir sponsors.
+- Pensar en aquellos miembros que no puedan asistir: streaming online o subir las presentaciones/videos.
+- Crear una cuenta de twitter o un hashtag para comunicar noticias o futuros eventos.
+
+### Días previos al meetup [TODO]
 
 
-### Días previos a un meetup [TODO]
-
-
-### Al finalizar un meetup [TODO]
+### Al finalizar el meetup [TODO]
 
 
 ## Miembros [TODO]
