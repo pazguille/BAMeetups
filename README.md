@@ -18,6 +18,7 @@
 - FirefoxOS Argentina - http://www.meetup.com/FirefoxOS-Argentina/
 - Hacks Hackers Buenos Aires - http://www.meetup.com/HacksHackersBA/
 - Processing Buenos Aires - https://www.facebook.com/processingBuenosAires/
+- Ruby Buenos Aires - http://www.meetup.com/rubyba/
 
 ## Organizadores
 
