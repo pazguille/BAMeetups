@@ -37,7 +37,7 @@ Una vez que decidimos en organizar un meetup, tenemos que tener en cuenta los si
 - Elegir que día se va a llevar a realizar el meetup.
 - No organices las cosas solo, es importante tener un equipo que te ayude.
 - Ir a otros meetups y aprender de los demás, siempre.
-- Estar abierto al feedback y escuhar las opiniones de los miembros y otros organizadores.
+- Estar abierto a recibir feedback y escuhar las opiniones de los miembros y otros organizadores.
 - No hay que ser el protagonista, simplemente un facilitador y ayudar a que puedan llevarse a cabo.
 - Crear un sitio de evento.
 - Conseguir speakers.
@@ -53,6 +53,7 @@ Una vez que decidimos en organizar un meetup, tenemos que tener en cuenta los si
 
 ## Miembros [TODO]
 
+## Speakers [TODO]
 
 ## Sponsors [TODO]
 
