@@ -1,7 +1,7 @@
 # BAMeetups
 > Listado de grupos/eventos/conferencias (meetups) nerds que se realizan en Buenos Aires.
 
-## Meetups en Buenos Aires
+## Meetups en Buenos Aires [WIP]
 
 - Buenos Aires Frontend - http://www.meetup.com/BAFrontend/
 - Laravel Buenos Aires - http://www.meetup.com/Laravel-Buenos-Aires/
@@ -15,30 +15,27 @@
 - Arquitectura de Software Buenos Aires - http://www.meetup.com/ArquitecturaDeSoftware/
 - Buenos Aires Python Meetup - http://www.meetup.com/Buenos-Aires-Python-Meetup/
 - Buenos Aires Haskell Meetup - http://www.meetup.com/Buenos-Aires-Haskell-Meetup/
-[WIP]
 
-## Oranizadores
+## Oranizadores [WIP]
 
 ### Antes de empezar un nuevo meetup
 - Es importante averiguar si existe un meetup similar al que nos podamos unirnos para ayudar
 - Tenemos que definir objetivos/misión del meetup.
-- 
-[WIP]
 
-### Primer meetup
-[WIP]
+### Primer meetup [WIP]
 
-### Días previos a un meetup
-[TODO]
 
-### Al finalizar un meetup
-[TODO]
+### Días previos a un meetup [TODO]
 
-## Miembros
-[TODO]
 
-## Sponsors
-[TODO]
+### Al finalizar un meetup [TODO]
+
+
+## Miembros [TODO]
+
+
+## Sponsors [TODO]
+
 
 ## With ❤ by
 - Guille Paz (Front-end developer | Web standards lover)
