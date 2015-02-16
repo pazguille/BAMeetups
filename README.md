@@ -29,24 +29,25 @@
 
 ### Organizando meetups [WIP]
 
-Una vez que decidimos en organizar un meetup, tenemos que tener en cuenta los siguientes puntos:
+Una vez que decidimos organizar un meetup, tenemos que tener en cuenta los siguientes puntos:
 
-- Definir que formato van a tener: formales, informales, online, offline, charlas, juntarse a tomar algo, etc.
-- Definir cada cuanto tiempo se van a realizar.
+- Definir que formato va a tener: formales, informales, online, offline, charlas, juntarse a tomar algo, etc.
+- Definir cada cuanto tiempo se va a realizar.
 - Elegir los venues correctos (la parte más complicada).
-- Elegir que día se va a llevar a realizar el meetup.
+- Elegir que día se va a realizar.
 - Conseguir speakers.
 - Conseguir sponsors.
-- Crear una página web del evento.
-- Crear una cuenta de twitter o un hashtag para comunicar noticias o futuros eventos.
+- Crear una página web.
+- Crear una cuenta de twitter o un hashtag para comunicar noticias o futuras fechas.
 - Pensar en aquellos miembros que no puedan asistir: streaming online o subir las presentaciones/videos.
-- Ir a otros meetups y aprender de los demás, siempre.
 - Estar abierto a recibir feedback y escuhar las opiniones de los miembros y otros organizadores.
+- Ir a otros meetups y aprender de los demás, siempre.
 - No organizar las cosas solo, es importante tener un equipo que te ayude.
 - No ser el protagonista, simplemente un facilitador y ayudar a que puedan llevarse a cabo.
 
-### Días previos al meetup [TODO]
+### Formatos de meetups [TODO]
 
+### Días previos al meetup [TODO]
 
 ### Al finalizar el meetup [TODO]
 
