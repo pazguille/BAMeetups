@@ -19,7 +19,7 @@
 - Hacks Hackers Buenos Aires - http://www.meetup.com/HacksHackersBA/
 - Processing Buenos Aires - https://www.facebook.com/processingBuenosAires/
 
-## Oranizadores
+## Organizadores
 
 ### Antes de empezar un nuevo meetup
 
