@@ -17,7 +17,7 @@
 - Buenos Aires Haskell Meetup - http://www.meetup.com/Buenos-Aires-Haskell-Meetup/
 - FirefoxOS Argentina - http://www.meetup.com/FirefoxOS-Argentina/
 - Hacks Hackers Buenos Aires - http://www.meetup.com/HacksHackersBA/
-- Processing Buenos Aires - https://www.facebook.com/processingBuenosAires
+- Processing Buenos Aires - https://www.facebook.com/processingBuenosAires/
 
 ## Oranizadores
 
@@ -31,19 +31,19 @@
 
 Una vez que decidimos en organizar un meetup, tenemos que tener en cuenta los siguientes puntos:
 
-- Definir que formato van a tener los meetups: formales, informales, online, offline, charlas, juntarse a tomar algo, etc.
+- Definir que formato van a tener: formales, informales, online, offline, charlas, juntarse a tomar algo, etc.
 - Definir cada cuanto tiempo se van a realizar.
 - Elegir los venues correctos (la parte más complicada).
 - Elegir que día se va a llevar a realizar el meetup.
-- No organices las cosas solo, es importante tener un equipo que te ayude.
-- Ir a otros meetups y aprender de los demás, siempre.
-- Estar abierto a recibir feedback y escuhar las opiniones de los miembros y otros organizadores.
-- No hay que ser el protagonista, simplemente un facilitador y ayudar a que puedan llevarse a cabo.
-- Crear un sitio de evento.
 - Conseguir speakers.
 - Conseguir sponsors.
-- Pensar en aquellos miembros que no puedan asistir: streaming online o subir las presentaciones/videos.
+- Crear una página web del evento.
 - Crear una cuenta de twitter o un hashtag para comunicar noticias o futuros eventos.
+- Pensar en aquellos miembros que no puedan asistir: streaming online o subir las presentaciones/videos.
+- Ir a otros meetups y aprender de los demás, siempre.
+- Estar abierto a recibir feedback y escuhar las opiniones de los miembros y otros organizadores.
+- No organizar las cosas solo, es importante tener un equipo que te ayude.
+- No ser el protagonista, simplemente un facilitador y ayudar a que puedan llevarse a cabo.
 
 ### Días previos al meetup [TODO]
 
