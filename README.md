@@ -34,19 +34,19 @@ Una vez que decidimos organizar un meetup, tenemos que tener en cuenta los sigui
 
 - Definir que formato va a tener.
 - Definir cada cuanto tiempo se va a realizar.
-- Elegir los venues correctos (la parte más complicada).
+- Elegir los venues correctos.
 - Elegir que día se va a realizar.
 - Conseguir speakers.
 - Conseguir sponsors.
 - Crear una página web.
 - Crear una cuenta de twitter o un hashtag para comunicar noticias o futuras fechas.
 - Pensar en aquellos miembros que no puedan asistir: streaming online o subir las presentaciones/videos.
-- Estar abierto a recibir feedback y escuhar las opiniones de los miembros y otros organizadores.
+- Estar abierto a recibir feedback y escuchar las opiniones de los miembros y otros organizadores.
 - Ir a otros meetups y aprender de los demás, siempre.
 - No organizar las cosas solo, es importante tener un equipo que te ayude.
-- No ser el protagonista, simplemente un facilitador y ayudar a que puedan llevarse a cabo.
+- No ser el protagonista, simplemente ser un facilitador y ayudar a que puedan llevarse a cabo.
 
-### Formatos de meetups
+#### Formatos
 Los meetups puede tener diferentes formatos. Es importante que elijamos el que mejor se adapte a la misión del grupo y a sus miembros.  
 
 Un meetup puede utilizar los siguientes formatos en distintos eventos:
@@ -56,6 +56,21 @@ Un meetup puede utilizar los siguientes formatos en distintos eventos:
 - **Presentaciones**: La forma más tradicional de un meetup donde se dan charlas, explican diferentes temas o se comparten experiencias.
 - **Entrevista**: La idea es realizar preguntas a los miembros del grupo sobre futuros eventos u obtener feedback del meetup en si.
 - **Happy Hour**: La idea es divertirse y tomar algunas copas para socializar, intercambiar experiencias y conocerse de una forma más informal y relajada.
+
+#### Cada cuanto tiempo
+No es necesario que los meetups se realicen una vez por mes, pueden ser cada 2 meses o hasta 1 vez por año. 
+
+Algo a tener en cuenta es que se pueden realizar diferentes tipos de eventos, en un mismo mes, utilizando diferentes formatos. Por ejemplo, primero se prodría hacer una presenatación de temas, luego un workshop de esos temas y por último un proyecto en conjunto.
+
+#### Venues correctos
+
+
+#### Elegir un día
+
+Muchas veces es difícil elegir una fecha que funcione para todos. Por eso es importante que tengamos en cuenta si hay otros eventos el mismo día, si hay feriados, posibles fechas de exámenes, etc.
+
+También hay que tener en cuenta el formato que se va a utilizar para saber cuanto tiempo se va a necesitar y pensar si conviene realizarlo de día, noche o un fin de semana.
+
 
 ### Días previos al meetup [TODO]
 
