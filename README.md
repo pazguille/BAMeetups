@@ -19,6 +19,13 @@
 - Hacks Hackers Buenos Aires - http://www.meetup.com/HacksHackersBA/
 - Processing Buenos Aires - https://www.facebook.com/processingBuenosAires/
 - Ruby Buenos Aires - http://www.meetup.com/rubyba/
+- BA Node.js - http://www.meetup.com/BANode-Meetup/
+- Wordpress Buenos Aires - http://www.meetup.com/wordpress-buenosaires/
+- Beer.js Buenos Aires - http://www.meetup.com/Beer-js-Buenos-Aires/
+- AngularJS Buenos Aires - http://www.meetup.com/AngularJS-Buenos-Aires/
+- Drupal Buenos Aires - http://www.meetup.com/Buenos-Aires-Drupal-Meetup/
+- Phonegap Developers Argentina - http://www.meetup.com/PhoneGapDevelopersArgentina/
+- Arquitectura de Software - http://www.meetup.com/ArquitecturaDeSoftware/
 
 ## Organizadores
 
